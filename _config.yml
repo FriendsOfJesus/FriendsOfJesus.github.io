@@ -4,7 +4,7 @@ description: The School is an-inclusive private and Christian founded. It
 caters for children of all religious denominations.
 
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://example.com" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://friendsofjesus.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Banner Section
 hero: 112.jpg
